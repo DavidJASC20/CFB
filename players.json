@@ -1,0 +1,44 @@
+{
+  "players": [
+    {
+      "name": "Carson Beck",
+      "school": "Georgia",
+      "position": "QB",
+      "tds": 27,
+      "yards": 3891,
+      "year": "Senior"
+    },
+    {
+      "name": "Quinn Ewers",
+      "school": "Texas",
+      "position": "QB",
+      "tds": 22,
+      "yards": 3313,
+      "year": "Junior"
+    },
+    {
+      "name": "TreVeyon Henderson",
+      "school": "Ohio State",
+      "position": "RB",
+      "tds": 11,
+      "yards": 926,
+      "year": "Junior"
+    },
+    {
+      "name": "Tetairoa McMillan",
+      "school": "Arizona",
+      "position": "WR",
+      "tds": 8,
+      "yards": 1182,
+      "year": "Junior"
+    },
+    {
+      "name": "Harold Perkins Jr.",
+      "school": "LSU",
+      "position": "LB",
+      "tds": 0,
+      "yards": 0,
+      "year": "Sophomore"
+    }
+  ]
+}
