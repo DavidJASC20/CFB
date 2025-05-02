@@ -4,6 +4,7 @@
       "name": "Carson Beck",
       "school": "Georgia",
       "position": "QB",
+      "stats": "https://www.espn.com/college-football/player/_/id/4430841/carson-beck",
       "tds": 27,
       "yards": 3891,
       "year": "Senior"
@@ -12,6 +13,7 @@
       "name": "Quinn Ewers",
       "school": "Texas",
       "position": "QB",
+      "stats": "https://www.espn.com/nfl/player/stats/_/id/4889929/type/college-football",
       "tds": 22,
       "yards": 3313,
       "year": "Junior"
@@ -20,6 +22,7 @@
       "name": "TreVeyon Henderson",
       "school": "Ohio State",
       "position": "RB",
+      "stats": "https://www.espn.com/nfl/player/stats/_/id/4432710/type/college-football",
       "tds": 11,
       "yards": 926,
       "year": "Junior"
@@ -28,17 +31,19 @@
       "name": "Tetairoa McMillan",
       "school": "Arizona",
       "position": "WR",
+      "stats": "https://www.espn.com/nfl/player/stats/_/id/4685472/type/college-football"
       "tds": 8,
       "yards": 1182,
       "year": "Junior"
     },
     {
-      "name": "Harold Perkins Jr.",
-      "school": "LSU",
-      "position": "LB",
-      "tds": 0,
-      "yards": 0,
-      "year": "Sophomore"
+      "name": "Cam Skattebo",
+      "school": "Arizona State University",
+      "position": "RB",
+      "stats": "https://www.espn.com/nfl/player/stats/_/id/4685472/type/college-football"
+      "tds": 21,
+      "yards": 1711,
+      "year": "Senior"
     }
   ]
 }
