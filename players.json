@@ -6,6 +6,7 @@
       "position": "QB",
       "stats": "https://www.espn.com/college-football/player/_/id/4430841/carson-beck",
       "img": "https://en.wikipedia.org/wiki/Georgia_Bulldogs_football#/media/File:SanfordStadium.jpg",
+      "yt": "https://www.youtube.com/watch?v=R2Un8gBPNZQ",
       "tds": 27,
       "yards": 3891,
       "year": "Senior"
@@ -16,6 +17,7 @@
       "position": "QB",
       "stats": "https://www.espn.com/nfl/player/stats/_/id/4889929/type/college-football",
       "img": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Texas_Longhorns_logo.svg",
+      "yt": "https://www.youtube.com/watch?v=5-IierUkJNQ",
       "tds": 22,
       "yards": 3313,
       "year": "Junior"
@@ -26,6 +28,7 @@
       "position": "RB",
       "stats": "https://www.espn.com/nfl/player/stats/_/id/4432710/type/college-football",
       "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ohio_State_Buckeyes_logo.svg",
+      "yt": "https://www.youtube.com/watch?v=vN7AfE-rj_M",
       "tds": 11,
       "yards": 926,
       "year": "Junior"
@@ -36,6 +39,7 @@
       "position": "WR",
       "stats": "https://www.espn.com/nfl/player/stats/_/id/4685472/type/college-football",
       "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ohio_State_Buckeyes_logo.svg",
+      "yt": "https://www.youtube.com/watch?v=xoebeMnuzCE",
       "tds": 8,
       "yards": 1182,
       "year": "Junior"
@@ -46,6 +50,7 @@
       "position": "RB",
       "stats": "https://www.espn.com/nfl/player/stats/_/id/4685472/type/college-football",
       "img": "https://en.wikipedia.org/wiki/Arizona_State_Sun_Devils_football#/media/File:Arizona_State_Athletics_wordmark.svg",
+      "yt": "https://www.youtube.com/watch?v=46mn4AT_2ug",
       "tds": 21,
       "yards": 1711,
       "year": "Senior"
