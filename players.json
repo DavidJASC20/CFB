@@ -54,6 +54,17 @@
       "tds": 21,
       "yards": 1711,
       "year": "Senior"
+    },
+        {
+      "name": "Devin Neal",
+      "school": "Kansas University",
+      "position": "RB",
+      "stats": "https://www.espn.com/nfl/player/stats/_/id/4682652/type/college-football",
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4682652.png&w=350&h=254",
+      "yt": "https://www.youtube.com/watch?v=8Z3_XcR0nog",
+      "tds": 16,
+      "yards": 1266,
+      "year": "Senior"
     }
   ]
 }
